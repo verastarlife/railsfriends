@@ -1,12 +1,12 @@
 # Friends List App
 
 
-* Hi there! My name is Alan Valenti and I work at
-  AlanPlanet.Com
+* <h2>Hi there! My name is <strong>Alan Valenti</strong> and I work at
+  AlanPlanet.Com</h2>
 
-  This is my Ruby on Rails Friends List App!
+  <p>This is my Ruby on Rails Friends List App!</p>
 
-  Have a good time!!
+  <p>Have a good time!!</p>
 
 
 
