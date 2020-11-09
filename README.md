@@ -1,8 +1,8 @@
 # Friends List App
 
 
-* <h2>Hi there! My name is <strong>Alan Valenti</strong> and I work at
-  AlanPlanet.Com</h2>
+* <h3>Hi there! My name is <i>Alan Valenti</i> and I work at
+  AlanPlanet.Com</h3>
 
   <p>This is my Ruby on Rails Friends List App!</p>
 
